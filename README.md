@@ -13,7 +13,7 @@ To run the Tic-Tac-Toe game, follow these steps:
 1. Ensure you have a C++ compiler installed on your system.
 2. Clone or download the project repository from GitHub.
 3. Open the project folder in your preferred C++ development environment.
-4. Compile the source code (`main.cpp`) using the C++ compiler.
+4. Compile the source code (`temp.cpp`) using the C++ compiler.
 5. Run the compiled executable file to start the game.
 6. Follow the prompts to make your moves and play against the AI opponent.
 7. The game will display the final board and announce the winner or a draw.
